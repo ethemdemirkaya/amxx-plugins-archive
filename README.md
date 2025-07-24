@@ -1,6 +1,6 @@
 # AMX Mod X Eklenti Arşivim
 
-![AMX Mod X Logo](https://www.amxmodx.org/images/logo.png)
+![AMX Mod X Logo](https://www.amxmodx.org/images/amxxlarge.jpg)
 
 Bu repo, Counter-Strike 1.6 sunucuları için yıllar içinde geliştirdiğim veya düzenlediğim tüm AMX Mod X eklentilerinin bir koleksiyonudur. Burada hem eklentilerin kaynak kodlarını (`.sma`) hem de kullanıma hazır, derlenmiş hallerini (`.amxx`) bulabilirsiniz.
 
